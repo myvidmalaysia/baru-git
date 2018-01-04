@@ -4,3 +4,4 @@ try tiga
 try empat
 try lima
 try enam
+try 7
